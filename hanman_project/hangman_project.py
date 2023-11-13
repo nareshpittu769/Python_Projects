@@ -36,6 +36,5 @@ while not game_over:
     if '_' not in display:
         game_over = True
         print("You Win ")
-    print(hangman_ascci.HANGMANPICS[lives]) #you need to copy and paste the hangman ascii code from https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c  and keep in hangman_ascci.py file and import in hangman project.
+    print(hangman_ascci.HANGMANPICS[lives]) #you need to copy and paste the hangman ascii code from https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c  and keep in hangman_ascci.py file and import in hangman project. (OR) you can download from my github
 
-    
